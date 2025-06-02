@@ -16,18 +16,20 @@ A secure command-line tool to encrypt/decrypt files, store secrets, and manage u
 
 ## 📁 Project Structure
 
+```
 secured_file_vault/
-  ├── main.py
-  ├── auth.py
-  ├── vault.py
-  ├── batch_processor.py
-  ├── helper.py
-  ├── logs/
-     ├── vault_log.txt
-  ├── users.json
-  ├── user_files.json
-  ├── requirements.txt
-  ├── README.md
+├── main.py
+├── auth.py
+├── vault.py
+├── batch_processor.py
+├── helper.py
+├── logs/
+│   └── vault_log.txt
+├── users.json
+├── user_files.json
+├── requirements.txt
+└── README.md
+```
 
 
 ---
