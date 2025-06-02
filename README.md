@@ -28,7 +28,10 @@ secured_file_vault/
 ├── users.json
 ├── user_files.json
 ├── requirements.txt
-└── README.md
+├── README.md
+├── encrypted_files/
+├── decrypted_files/
+├── zipped_folders/
 └── screenshots/
     ├── login.png
     └── main_menu.png
