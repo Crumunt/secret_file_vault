@@ -39,8 +39,8 @@ secured_file_vault/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Crumunt/secret_file_vault.git
-cd encrypted-file-vault
+git clone https://github.com/Crumunt/secured_file_vault.git
+cd secured_file_vault
 ```
 2. (Optional) Create a Virtual Environment
 ```bash
