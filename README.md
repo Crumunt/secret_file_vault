@@ -88,24 +88,24 @@ These packages are required by the application:
 python main.py
 ```
 
-You’ll be prompted to:
+- You’ll be prompted to:
 
-Register or log in
+- Register or log in
 
-Encrypt/decrypt files
+- Encrypt/decrypt files
 
-View Encrypted Files
+- View Encrypted Files
 
-View Logs
+- View Logs
 
 ---
 
 ## 🖼️ Screenshots
 
-Login Prompt
+# Login Prompt
 ![Login Screen](screenshots/login.png)
 
-Main Menu
+# Main Menu
 ![Main Menu](screenshots/main_menu.png)
 
 ## 📄 License
