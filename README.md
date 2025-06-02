@@ -88,7 +88,7 @@ These packages are required by the application:
 python main.py
 ```
 
-- You’ll be prompted to:
+You’ll be prompted to:
 
 - Register or log in
 
@@ -102,10 +102,10 @@ python main.py
 
 ## 🖼️ Screenshots
 
-# Login Prompt
+### Login Prompt
 ![Login Screen](screenshots/login.png)
 
-# Main Menu
+### Main Menu
 ![Main Menu](screenshots/main_menu.png)
 
 ## 📄 License
