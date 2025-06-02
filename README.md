@@ -66,19 +66,22 @@ pip install cryptography pwinput
 ---
 
 ## 📦 Dependencies
+
 These packages are required by the application:
 
-Package	Description
-cryptography	Used for AES encryption via Fernet
-pwinput	Allows secure password input in CLI
-hashlib	Python standard library – password hashing
-json	Python standard library – config/secret files
-os	Python standard library – file system access
-shutil	Python standard library – file operations
-datetime	Python standard library – timestamps
-time	Python standard library – delays/timing
+| Package       | Description                                  |
+|---------------|----------------------------------------------|
+| `cryptography`| Used for AES encryption via `Fernet`         |
+| `pwinput`     | Allows secure password input in CLI          |
+| `hashlib`     | Python standard library – password hashing   |
+| `json`        | Python standard library – config/secret files|
+| `os`          | Python standard library – file system access |
+| `shutil`      | Python standard library – file operations    |
+| `datetime`    | Python standard library – timestamps          |
+| `time`        | Python standard library – delays/timing       |
 
-All standard libraries (os, json, datetime, etc.) require no installation.
+> 📝 All standard libraries (`os`, `json`, `datetime`, etc.) require **no installation**.
+
 
 🚀 Running the Application
 ```bash
