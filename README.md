@@ -65,7 +65,7 @@ pip install cryptography pwinput
 
 ---
 
-📦 Dependencies
+## 📦 Dependencies
 These packages are required by the application:
 
 Package	Description
@@ -97,7 +97,7 @@ View Logs
 
 ---
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 Login Prompt
 ![Login Screen](screenshots/login.png)
@@ -105,5 +105,5 @@ Login Prompt
 Main Menu
 ![Main Menu](screenshots/main_menu.png)
 
-📄 License
+## 📄 License
 Licensed under the MIT License.
