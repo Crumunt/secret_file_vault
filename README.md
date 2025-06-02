@@ -16,17 +16,18 @@ A secure command-line tool to encrypt/decrypt files, store secrets, and manage u
 
 ## 📁 Project Structure
 
-encrypted-file-vault/
-├── main.py
-├── auth.py
-├── vault.py
-├── encryption.py
-├── helper.py
-├── users.json
-├── secrets.json
-├── key.key
-├── requirements.txt
-├── README.md
+secured_file_vault/
+  ├── main.py
+  ├── auth.py
+  ├── vault.py
+  ├── batch_processor.py
+  ├── helper.py
+  ├── logs/
+     ├── vault_log.txt
+  ├── users.json
+  ├── user_files.json
+  ├── requirements.txt
+  ├── README.md
 
 
 ---
@@ -36,7 +37,7 @@ encrypted-file-vault/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/encrypted-file-vault.git
+git clone https://github.com/Crumunt/secret_file_vault.git
 cd encrypted-file-vault
 ```
 2. (Optional) Create a Virtual Environment
