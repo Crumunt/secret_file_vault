@@ -29,6 +29,9 @@ secured_file_vault/
 ├── user_files.json
 ├── requirements.txt
 └── README.md
+└── screenshots/
+    ├── login.png
+    └── main_menu.png
 ```
 
 
@@ -92,11 +95,12 @@ View Logs
 ---
 
 🖼️ Screenshots
+
 Login Prompt
+![Login Screen](screenshots/login.png)
 
 Main Menu
-
-Encrypted File Viewer
+![Main Menu](screenshots/main_menu.png)
 
 📄 License
 Licensed under the MIT License.
